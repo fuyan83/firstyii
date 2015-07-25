@@ -12,7 +12,9 @@ require APP_PATH.'Core/Runtime.php';//加载系统启动文件
 set_time_limit(0);
 //echo PHP_EOL;
 DB::init();
-echo 'fdsafadsfdas23456';
+
+echo 'fdsafadsfdas121212';
+
 require APP_PATH.'kdt/KdtApiClient.php';
 
 $kdtconfig=C('kdt');
