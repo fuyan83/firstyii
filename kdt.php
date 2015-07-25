@@ -13,6 +13,7 @@ set_time_limit(0);
 //echo PHP_EOL;
 DB::init();
 echo 'fdsafadsfdas12121244555cc1';
+
 require APP_PATH.'kdt/KdtApiClient.php';
 
 $kdtconfig=C('kdt');
